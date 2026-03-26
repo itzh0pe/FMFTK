@@ -1,6 +1,6 @@
 Adding 6 or 7 more games soon!
 
-loadstring(game:HttpGet("https://pastebin.com/raw/gx18bvxm", true))()
+loadstring(game:HttpGet("https://github.com/itzh0pe/FMFTK/blob/main/loader.luau", true))()
 
 
 NUMBERS OF GAME IS 4 
